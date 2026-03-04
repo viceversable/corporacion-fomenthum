@@ -1,4 +1,4 @@
-# corporacion-fomenthum - Webflow Scripts
+# Corporacion Fomenthum - Webflow Scripts
 
 ## 📋 STEP 1: Add This Code to Webflow
 
